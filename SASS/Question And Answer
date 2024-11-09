@@ -1,0 +1,10 @@
+1. What is SASS, and why is it used?
+Answer: SASS (Syntactically Awesome Style Sheets) is a CSS preprocessor that extends the capabilities of regular CSS. It allows developers to use features like variables, nested rules, mixins, functions, and more, which help in writing more organized, maintainable, and reusable stylesheets. By compiling SASS code into standard CSS, it makes the stylesheets easier to read and manage, especially for large projects.
+
+2. What are the differences between SASS and SCSS?
+Answer: SASS and SCSS are two syntax formats for writing SASS code:
+SASS (indented syntax) is the older version and uses indentation rather than curly braces and semicolons.
+SCSS (Sassy CSS) is the newer syntax that is more like traditional CSS, using curly braces {} and semicolons ; .
+
+3. What are mixins in SASS, and how are they used?
+Answer: Mixins in SASS are a way to create reusable blocks of CSS code. They are useful for reducing redundancy and maintaining consistency across styles. Mixins are defined using the @mixin directive and can be included in styles using the @include directive.
