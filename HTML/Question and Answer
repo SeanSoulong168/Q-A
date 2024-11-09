@@ -1,0 +1,14 @@
+1.	What is HTML and why is it used?
+: HTML stands for HyperText Markup Language. It is the standard language used to create and design web pages. HTML provides the structure of a webpage by using a system of elements and tags, which tell the browser how to display content such as text, images, links, and multimedia elements. Without HTML, the web as we know it would not exist.
+Sure! Here are three common questions about HTML with their answers:
+
+2. What are the main components of an HTML document?
+•	Answer: An HTML document is structured using a few main components:
+1.	<!DOCTYPE html>: Defines the document type and version of HTML.
+2.	<html>: The root element that encloses all content on the page.
+3.	<head>: Contains metadata about the document, such as the title, character set, and links to stylesheets.
+4.	<title>: Sets the title of the web page, which appears in the browser's title bar or tab.
+5.	<body>: Contains the actual content of the web page, such as text, images, links, and other elements.
+             
+3. What is the difference between an HTML tag and an HTML element?
+•	Answer: An HTML tag is the syntax used to define an HTML element, usually enclosed in angle brackets, like <p>. An HTML element refers to the complete structure, which includes the opening tag, content, and closing tag, like <p>This is a paragraph.</p>. The element is what is interpreted by the browser to render content.
